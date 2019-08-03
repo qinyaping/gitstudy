@@ -6,3 +6,7 @@ hello world
 in branch master
 
 in branch Test
+ 
+
+
+test for pull before commit
